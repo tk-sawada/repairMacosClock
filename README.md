@@ -31,7 +31,7 @@ Macbookのバッテリーが切れた状態で放置した際に発生する時�
    スクリプトは`sudo`を使用して実行する必要があります。次のコマンドを実行してください：
 
    ```
-   sudo ./repairMacosClock.sh
+   sudo sh ./repairMacosClock.sh
    ```
 
    スクリプトが実行されると、時刻管理サービスが再起動され、システムクロックがNTPサーバー（`ntp.nict.jp`）と同期されます。
