@@ -45,4 +45,4 @@ Macbookのバッテリーが切れた状態で放置した際に発生する時�
 
 ## ライセンス
  
-[MIT](http://TomoakiTANAKA.mit-license.org)</blockquote>
+[MITライセンス](LICENSE)
